@@ -1,0 +1,5 @@
+10036	IGNORE	Server version disclosure accepted for demo environment
+10049	IGNORE	Cache-control warning accepted; no sensitive data cached
+10055	IGNORE	CSP exists; directive refinement is backlog item
+90004	IGNORE	COEP not required for this demo app
+90005	IGNORE	Sec-Fetch headers are browser-generated, not server's responsibility
